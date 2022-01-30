@@ -19,6 +19,8 @@
   "homepage": "https://github.com/iyanez2314/CMS#readme",
   "dependencies": {
     "console.table": "^0.10.0",
+    "dotenv": "^14.3.2",
+    "eslint": "^8.7.0",
     "inquirer": "^8.2.0",
     "my-sql": "^1.2.15",
     "mysql2": "^2.3.3"
