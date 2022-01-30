@@ -28,7 +28,7 @@ You also need to install one more package
 npm i mysql2
 ```
 
-Once all those things are installed 
+Once all those pakages  are installed run the command
 ```bash
 node CMS.js
 ```
